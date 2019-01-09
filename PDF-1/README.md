@@ -4,3 +4,7 @@ Find the flag hidden in this pdf! Enclose the code in flag{..}, so if you think 
 
 # Flag
 flag{one_two_three_four}
+
+# Resources
+- link to trail of bits description of PDFs
+- need to use any image extracting software
