@@ -16,3 +16,5 @@ What does it mean to follow a stream in Wireshark?
 What are the types of HTTP requests?
 What does a GET/POST request consist of?
 What is Windows NT?
+
+https://docs.google.com/document/d/17OaL269tgcaAFqKuW2Q1NZ1GgdRSbg3py5CgudOLHIQ/edit?usp=sharing

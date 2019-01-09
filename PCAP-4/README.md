@@ -15,3 +15,4 @@ This is the base64 of the password
 
 # Resources
 URL encoding
+https://docs.google.com/document/d/1THr8J5fG9HFzeQUFxyOlX76FPzyBGZj2KtikA0D9P9M/edit?usp=sharing
