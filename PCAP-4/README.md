@@ -13,6 +13,9 @@ Notice that there is userid=spiveyp&pswrd=S04xWjZQWFZ5OQ%3D%3D
 This is URL encoded, which ends up becoming S04xWjZQWFZ5OQ==
 This is the base64 of the password
 
+# Hint
+URLs contain % signs. What do they mean?
+
 # Resources
-URL encoding
+Types of encoding
 https://docs.google.com/document/d/1THr8J5fG9HFzeQUFxyOlX76FPzyBGZj2KtikA0D9P9M/edit?usp=sharing
